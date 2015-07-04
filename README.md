@@ -11,3 +11,5 @@ My part was backend development:
 -Performing lemmatization with MyStem library  
 -Building a syntax for querying, with automatic expansion of every query keyword to it's synonyms  
 -Parsing VK groups with API to gather posts  
+
+This repository contains only pieces of code written by me, that are relevant to this project.
